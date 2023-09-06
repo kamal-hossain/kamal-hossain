@@ -2,7 +2,7 @@
 
 I'm a full-stack software developer with over 4 years of professional experience, specializing in the JavaScript ecosystem. With my skills spanning across both frontend and backend development, I have helped businesses to thrive by delivering effective software solutions. I believe in clean, maintainable code and lifelong learning. 
 
-🌐 Find more about me at [www.devkamal.com](https://www.devkamal.com)
+🌐 Find more about me at [devkamal.com](https://devkamal.com)
 
 ## 🛠️ Technical Skills & Competencies
 
