@@ -45,10 +45,7 @@ I'm a full-stack software developer with over 4 years of professional experience
 - Secondary School Certificate (SSC)
 
 ## 💼 Recent Projects
-- [E-commerce](https://tinyurl.com/ycfxxh93)
 - [Personal Website](https://tinyurl.com/yc82t34j)
-- [Auto Parts E-commerce](https://tinyurl.com/ycfxxh93)
-- [Drive API site](https://tinyurl.com/5xb4c5mm)
 
 ## 💻📝 My Latest Blog Posts
 ### [Uploading Files to Google Cloud Storage From Browser](https://devkamal.com/blog/upload-files-to-google-cloud-storage-from-browser)
