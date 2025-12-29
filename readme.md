@@ -1,17 +1,17 @@
 # Hello there, I'm Kamal Hossain 👋👨‍💻
 
-I'm a full-stack software developer with over 4 years of professional experience, specializing in the JavaScript ecosystem. With my skills spanning across both frontend and backend development, I have helped businesses to thrive by delivering effective software solutions. I believe in clean, maintainable code and lifelong learning. 
+I'm a full-stack software developer with over 5 years of professional experience, specializing in the JavaScript ecosystem. With my skills spanning across both frontend and backend development, I have helped businesses to thrive by delivering effective software solutions. I believe in clean, maintainable code and lifelong learning. 
 
 🌐 Find more about me at [devkamal.com](https://devkamal.com)
 
 ## 🛠️ Technical Skills & Competencies
 
 ### 📚 Programming Languages
-- **JavaScript** (4+ Years)
-- **React.js** (4+ Years)
-- **Node.js** (3+ Years)
-- **React Native** (2+ Years)
-- **AWS** (3+ Years)
+- **JavaScript** (5+ Years)
+- **React.js** (5+ Years)
+- **Node.js** (4+ Years)
+- **React Native** (3+ Years)
+- **AWS** (4+ Years)
 
 ### 🔧 Other Technologies
 - HTML, CSS, Next.js, Expo, Redux, Express.js, MongoDB, Mongoose
