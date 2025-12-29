@@ -54,10 +54,7 @@ Feel free to explore my repositories and read my blog posts, and don't hesitate 
 
 ## 📬 Let's Connect
 - Web: [devkamal.com](https://www.devkamal.com/)
-- Email: [hirethedeveloperkamal@gmail.com](mailto:hirethedeveloperkamal@gmail.com)
 - LinkedIn: [Kamal Hossain](https://www.linkedin.com/in/devkamal/)
-- Twitter: [debugkamal](https://twitter.com/debugkamal)
-- Facebook: [kamalhossain.me](https://www.facebook.com/kamalhossain.me)
 
 ![kamalhossain github stats](https://github-readme-stats.vercel.app/api?username=kamal-hossain&show_icons=true&hide_border=true)
 
